@@ -1,0 +1,5 @@
+bluealert_venv/
+__pycache__/
+*.pyc
+.env
+*.log
